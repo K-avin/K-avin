@@ -2,58 +2,36 @@
 
 <h1 align="center"> Hello, I'm Kavin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm an enthusiastic app developer from India❤</h3>  
 
 A self-taught, passionate app dev🎯 from India🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. let's collaborate xD. 
 
 
-![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-India-3c9)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kabilraj-selvanantham-952a0313a)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/itzskavin/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Thusatharan)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-0DC143?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/+94776213839)
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m currently experimenting on UI/UX with flutter.![Hi](https://user-images.githubusercontent.com/19858893/147880033-72abde8c-e116-42b5-a0ea-f4795893a7ad.gif)
+- 🌱 I’m currently experimenting on UI/UX with flutter.
 
 - ⚡ Fun fact: I love photography.
-- 📝 Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!![Uploading 147880033-72abde8c-e116-42b5-a0ea-f4795893a7ad.gif…]()
 
 
 
+<br /><br />
 <br />
 
 ## 👨‍💻 Languages and Tools
 
 <br />
 <div align="center">
-
-<img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
-<img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
-<img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
-<img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" height="40" width="40">
-<img src="https://i.imgur.com/9Ulh3vX.png" height="40" width="40">
-<img src="https://i.imgur.com/apxFVxR.png" height="40" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" height="40" width="40">
-
-<br />
-
-<img src="https://i.imgur.com/EtRNN8U.png" height="35" width="60">
-<img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
-<img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40">
-<img src="https://i.imgur.com/b65wQ01.png" height="40" width="40">
-<img src="https://i.imgur.com/0EZWddS.png" height="40" width="40">
-</div>
-
-<br /> <br />
-
-
-<div align="center">
-
-### Show some ❤️ by starring ⭐ some of the repositories!
-
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=siddhesh.parab28@gmail.com)
-
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/siddhesh.parab28/)
-
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="expressjs"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="cpp"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="python"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="graphql"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 </div>
