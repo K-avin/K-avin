@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Hello, I'm Siddhesh Parab <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello, I'm Kavin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm an enthusiastic app developer from India❤</h3>  
 
-A self-taught, passionate app dev🎯 from India🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. I’m looking to apply my skills in a good million dollar idea! So if you have any , let's collaborate xD. 
+A self-taught, passionate app dev🎯 from India🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. let's collaborate xD. 
 
 
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
@@ -13,9 +13,11 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m currently experimenting on UI/UX with flutter.
+- 🌱 I’m currently experimenting on UI/UX with flutter.![Hi](https://user-images.githubusercontent.com/19858893/147880033-72abde8c-e116-42b5-a0ea-f4795893a7ad.gif)
+
 - ⚡ Fun fact: I love photography.
-- 📝 Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com) for more details about me. I'm open to feedback and suggestions!![Uploading 147880033-72abde8c-e116-42b5-a0ea-f4795893a7ad.gif…]()
+
 
 
 <br />
