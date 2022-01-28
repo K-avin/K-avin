@@ -3,7 +3,7 @@
 <h1 align="center"> Hello, I'm Kavin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 
-A self-taught, passionate app dev🎯 from India🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. let's collaborate xD. 
+A self-taught, passionate app dev🎯 from Sri lanka🌎. I love to work with new technologies. Currently, I am learning how to write flutter apps more efficiently with a well structured code and experimenting with UI/UX !  🌱. let's collaborate xD. 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kabilraj-selvanantham-952a0313a)
